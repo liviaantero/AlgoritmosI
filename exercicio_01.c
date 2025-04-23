@@ -1,3 +1,4 @@
+/*pedi os valores ao usuario e depois fiz todos os calculos para saber o tipo do triagulo, se os valores nao formar um triangulo ele da como errado*/
 #include<stdio.h>
 #include<stdlib.h>
 int main()
